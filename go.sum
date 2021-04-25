@@ -1,0 +1,6 @@
+github.com/carrot-systems/csl-discovery-client v1.0.2 h1:VxpgnbPZ9/VNsa1SEJqkkTwOYTIUi643d9IIlQdYYf8=
+github.com/carrot-systems/csl-discovery-client v1.0.2/go.mod h1:hchmUCJ0nFhtfBv2FpuqeL70y2RdQj/bZ5QpkYrsHhw=
+github.com/carrot-systems/csl-env v1.0.0 h1:/vuFDvmbOq+T3LP/wAWbeABgEfAAO6RLzdyXWA0zakc=
+github.com/carrot-systems/csl-env v1.0.0/go.mod h1:rQlzoapcGNMUBz2hGV9g7+Wzik3tWtioTcyI6lTHv3M=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
